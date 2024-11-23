@@ -23,11 +23,6 @@
 ###
 
 <h3 align="left">🖥️ Tech Stack</h3>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="5" />
@@ -52,13 +47,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
 </div>
 
-###
-
 <h3 align="left">🌟 Code Activity</h3>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryndraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
