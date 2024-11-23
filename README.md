@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">> 🎓 Student At SMK TI BALI GLOBAL DENPASAR<br>> 🔧 Software Enginner<br>> 📍 Bali, Indonesia<br>> 🤖 Hobby : Robotics</p>
+<ul>
+  <li>🎓 Student At SMK TI BALI GLOBAL DENPASAR</li>
+  <li>🔧 Software Enginner</li> 
+  <li>📍 Bali, Indonesia</li>  
+  <li>🤖 Hobby : Robotics</li>  
+</ul>
 
 ###
 
@@ -18,7 +23,11 @@
 
 ###
 
-<p align="left">> 🌱 Currently Learning : Next JS<br>> 💡 Interests About : Building full stack application<br>> 🎯 Goal : Becoming expert web developer</p>
+<ul>
+  <li>🌱 Currently Learning : Next JS</li>
+  <li>💡 Interests About : Building full stack application</li> 
+  <li>🎯 Goal : Becoming expert web developer</li> 
+</ul>
 
 ###
 
