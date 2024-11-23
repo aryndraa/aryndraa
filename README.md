@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="left">Hi, I am Arya👋</h1>
 
-<!--
-**aryndraa/aryndraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">WEB & API Developer</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">🤓 About Me</h3>
+
+###
+
+<p align="left">> 🎓 Student At SMK TI BALI GLOBAL DENPASAR<br>> 🔧 Software Enginner<br>> 📍 Bali, Indonesia<br>> 🤖 Hobby : Robotics</p>
+
+###
+
+<h3 align="left">🚀 My Developer Jouney</h3>
+
+###
+
+<p align="left">> 🌱 Currently Learning : Next JS<br>> 💡 Interests About : Building full stack application<br>> 🎯 Goal : Becoming expert web developer</p>
+
+###
+
+<h3 align="left">🖥️ Tech Stack</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="36" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="36" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="36" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="36" alt="react logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="36" alt="php logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="36" alt="laravel logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="36" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="36" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="36" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🌟 Code Activity</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryndraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryndraa&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">🤝 Let's Connect!</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.behance.net/arygrapdesign" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/aryandrxx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mahendra-arya-12a6a130b/?trk=opento_sprofile_details" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/aryndraa/aryndraa/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aryndraa/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=aryndraa" alt="Layout with last medium posts"  />
+</div>
+
+###
