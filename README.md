@@ -71,7 +71,7 @@
   <a href="https://www.behance.net/arygrapdesign" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="behance logo"  />
   </a>
-  <a href="https://www.instagram.com/aryandrxx/" target="_blank">
+  <a href="https://www.instagram.com/aryaavnt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mahendra-arya-12a6a130b/?trk=opento_sprofile_details" target="_blank">
